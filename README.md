@@ -8,6 +8,8 @@ Generating the datetimes list in the set bounds of period and time
 ## Useing
 
 ```python
+from planner import Planner
+
 p = Planner(
     period='week',
     timerange=[(12,13), (14,15), (16,17)],

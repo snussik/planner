@@ -1,6 +1,6 @@
 # Planner class
 
-## Generating the datetimes list in the set bounds of period and time
+Generating the datetimes list in the set bounds of period and time
 
 ## Installing
 `pip install git+https://github.com/snussik/planner.git`
